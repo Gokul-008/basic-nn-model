@@ -90,8 +90,7 @@ X_n1_1 = Scaler.transform(X_n1)
 ai_brain.predict(X_n1_1)
 ```
 ## Dataset Information
-![d 1](https://github.com/user-attachments/assets/dc55f46f-55e6-4f8a-817c-8b6dfc1cf538)
-
+![Screenshot 2024-08-30 191644](https://github.com/user-attachments/assets/8ab6023b-456c-449a-b38e-0723948210ae)
 
 ## Training Loss Vs Iteration Plot
 ![d 2](https://github.com/user-attachments/assets/5555e317-43f4-481e-b6cf-8994246adcff)
